@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dac51542-dee9-4352-9845-050f9b27eae3" name="Changes" comment="04">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Datos/AccesoDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Datos/ImplementacionMySql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Datos/ImplementacionOracle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Excepciones/AccesoDatosEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Excepciones/EscrituraDatosEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Excepciones/LecturaDatosEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/ExcepcionesParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejemplo/Parking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Parking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Parking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +27,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="2PL6njDde1TNLepopXvlFiKZWfs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/2DAW/OneDrive - Centre d'Estudis Monlau/Documents/Github/Excepciones/src/main/java/org/example/Ejemplo",
+    "last_opened_file_path": "E:/2DAW/OneDrive - Centre d'Estudis Monlau/Documents/Github/Excepciones",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,7 +65,9 @@
       <updated>1683224188445</updated>
       <workItem from="1683224189675" duration="2421000" />
       <workItem from="1683294240808" duration="32000" />
-      <workItem from="1683648565474" duration="3169000" />
+      <workItem from="1683648565474" duration="3739000" />
+      <workItem from="1683652529371" duration="16000" />
+      <workItem from="1684432974726" duration="3096000" />
     </task>
     <task id="LOCAL-00001" summary="04">
       <created>1683226609758</created>
